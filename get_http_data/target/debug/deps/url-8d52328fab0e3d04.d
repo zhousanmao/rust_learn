@@ -1,0 +1,13 @@
+/Users/bytedance/zgm/chapter-03/target/debug/deps/url-8d52328fab0e3d04.rmeta: /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/url-2.4.0/src/lib.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/url-2.4.0/src/host.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/url-2.4.0/src/origin.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/url-2.4.0/src/parser.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/url-2.4.0/src/path_segments.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/url-2.4.0/src/slicing.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/url-2.4.0/src/quirks.rs
+
+/Users/bytedance/zgm/chapter-03/target/debug/deps/liburl-8d52328fab0e3d04.rlib: /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/url-2.4.0/src/lib.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/url-2.4.0/src/host.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/url-2.4.0/src/origin.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/url-2.4.0/src/parser.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/url-2.4.0/src/path_segments.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/url-2.4.0/src/slicing.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/url-2.4.0/src/quirks.rs
+
+/Users/bytedance/zgm/chapter-03/target/debug/deps/url-8d52328fab0e3d04.d: /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/url-2.4.0/src/lib.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/url-2.4.0/src/host.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/url-2.4.0/src/origin.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/url-2.4.0/src/parser.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/url-2.4.0/src/path_segments.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/url-2.4.0/src/slicing.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/url-2.4.0/src/quirks.rs
+
+/Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/url-2.4.0/src/lib.rs:
+/Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/url-2.4.0/src/host.rs:
+/Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/url-2.4.0/src/origin.rs:
+/Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/url-2.4.0/src/parser.rs:
+/Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/url-2.4.0/src/path_segments.rs:
+/Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/url-2.4.0/src/slicing.rs:
+/Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/url-2.4.0/src/quirks.rs:

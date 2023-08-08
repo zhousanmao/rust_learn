@@ -1,0 +1,12 @@
+/Users/bytedance/zgm/chapter-03/target/debug/deps/tempfile-65db1daf96ddc02f.rmeta: /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/tempfile-3.6.0/src/lib.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/tempfile-3.6.0/src/dir.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/tempfile-3.6.0/src/error.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/tempfile-3.6.0/src/file/mod.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/tempfile-3.6.0/src/file/imp/mod.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/tempfile-3.6.0/src/spooled.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/tempfile-3.6.0/src/util.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/tempfile-3.6.0/src/file/imp/unix.rs
+
+/Users/bytedance/zgm/chapter-03/target/debug/deps/tempfile-65db1daf96ddc02f.d: /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/tempfile-3.6.0/src/lib.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/tempfile-3.6.0/src/dir.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/tempfile-3.6.0/src/error.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/tempfile-3.6.0/src/file/mod.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/tempfile-3.6.0/src/file/imp/mod.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/tempfile-3.6.0/src/spooled.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/tempfile-3.6.0/src/util.rs /Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/tempfile-3.6.0/src/file/imp/unix.rs
+
+/Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/tempfile-3.6.0/src/lib.rs:
+/Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/tempfile-3.6.0/src/dir.rs:
+/Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/tempfile-3.6.0/src/error.rs:
+/Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/tempfile-3.6.0/src/file/mod.rs:
+/Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/tempfile-3.6.0/src/file/imp/mod.rs:
+/Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/tempfile-3.6.0/src/spooled.rs:
+/Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/tempfile-3.6.0/src/util.rs:
+/Users/bytedance/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/tempfile-3.6.0/src/file/imp/unix.rs:
